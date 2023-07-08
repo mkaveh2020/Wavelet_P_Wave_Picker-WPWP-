@@ -1,1 +1,2 @@
-Wavelet P Wave Picker a matlab code for picking the first p arrival time in wavelet domain
+Wavelet P Wave Picker(WPWP) is a Matlab code for picking the first P wave arrival time in the wavelet domain
+A reference to [this paper](linkhttps://link.springer.com/article/10.1007/s10950-019-09852-z) is appreciated.
